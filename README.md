@@ -1,12 +1,13 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akrem%20Hammami&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akrem%20HAMMAMI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=QA+Engineer+%7C+Test+Automation+Specialist;Building+Robust+Test+Frameworks;3%2B+Years+of+Experience+in+Quality+Assurance;Passionate+About+AI-Driven+Testing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Consultant+QA+%7C+Test+Automation+Specialist;Expert+en+Validation+%26+Automatisation;3%2B+Ann%C3%A9es+d'Exp%C3%A9rience+en+Assurance+Qualit%C3%A9;Certifi%C3%A9+ISTQB+%7C+Scrum+Master+%7C+PSPO" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akrem-hammami-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:hammami-akrem@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="tel:+21655093323"><img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=akremhammami&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -14,74 +15,122 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 À Propos de Moi
 
 ```yaml
-name: Akrem Hammami
-located_in: Tunis, Tunisia 🇹🇳
-current_role: QA Analyst & Test Automation Engineer
-experience: 3+ years
+name: Akrem HAMMAMI
+role: Consultant QA | Test Automation & Validation Specialist
+location: Ariana, Tunis, Tunisia 🇹🇳
+experience: 3+ années (2022 - Present)
+email: hammami-akrem@outlook.com
+linkedin: linkedin.com/in/akrem-hammami-
 
-fields_of_interests:
-  - Test Automation
-  - Continuous Integration/Deployment
-  - AI-Powered Testing
-  - Quality Assurance Best Practices
+passion:
+  - "Passionné par l'assurance qualité des logiciels"
+  - "Déterminé à acquérir les compétences nécessaires pour exceller"
+  - "Contribuer à l'amélioration de la qualité des produits logiciels"
+
+specializations:
+  - Test Fonctionnel Approfondi
+  - Automatisation des Tests (Selenium, Cucumber, BDD)
+  - Méthodologie Agile & Scrum
+  - Gestion de Projet avec JIRA
+  - API Testing & Performance Testing
   
-currently_learning:
-  - Advanced CI/CD Pipelines
-  - Containerization with Docker
-  - AI/ML for Test Automation
-  - DevOps Practices
-
-daily_routine:
-  - "☕ Coffee"
-  - "💻 Code"
-  - "🧪 Test"
-  - "🔄 Iterate"
-  - "🚀 Deploy"
+certifications: 9 Certifications Professionnelles Agréées par l'État
 ```
 
 <details>
-<summary>📈 More About My Journey</summary>
+<summary>📈 Mon Parcours Professionnel</summary>
 
 ```
-💼 Professional Focus:
-   ├── Creating robust test automation frameworks
-   ├── Implementing CI/CD pipelines
-   ├── Ensuring software quality through comprehensive testing
-   └── Exploring AI-driven testing solutions
+💼 Expériences Professionnelles:
+   
+   ├── [Mai 2024 - Present] Consultant Tests Logiciels
+   │   ├── Entreprise: Assurances COMAR & HAYETT (Siege)
+   │   ├── Location: Tunis, TU, Tunisia
+   │   ├── Focus: Tests fonctionnels approfondis des solutions d'identification
+   │   └── Responsabilités:
+   │       ├── Définition des besoins avec MOA
+   │       ├── Analyse SPEC et BF Métiers
+   │       ├── Exécution Tests bout en bout & TNR
+   │       ├── Validation Bugs sur MANTIS
+   │       └── Rédaction Rapports de test
+   
+   ├── [Oct 2023 - Mai 2024] Consultant Test & Validation
+   │   ├── Entreprise: Cynoia
+   │   ├── Location: Tunis
+   │   ├── Projet: Plateforme collaborative multi-outils
+   │   ├── Stack: Selenium WebDriver, Cucumber, POM, BDD, Jira
+   │   └── Réalisations:
+   │       ├── Solution de test automatique basée sur Selenium & Cucumber
+   │       ├── Développement cas de test avec Pattern POM
+   │       ├── Tests API avec Postman
+   │       └── Génération rapports avec Cucumber Report & ExtentReport
+   
+   └── [Sept 2022 - Sept 2023] Testeur Logiciel
+       ├── Entreprise: Proservices Training Company
+       ├── Location: Tunis
+       ├── Projet: ERP - Plateforme web de gestion des écoles privées
+       ├── Méthodologie: Approche Agile
+       └── Compétences développées:
+           ├── Création workflows Jira (Bug, Story, Tâche, Epic)
+           ├── Gestion Backlog de projet & sprint
+           ├── Rédaction user stories & specs
+           ├── Tests de non régression (TNR) & Smock Test
+           └── Génération rapports des bugs
 
-🎯 Career Goals:
-   ├── Master advanced DevOps practices
-   ├── Contribute to open-source QA tools
-   └── Become a Test Automation Architect
+🎯 Objectifs de Carrière:
+   ├── Maîtriser les pratiques DevOps avancées
+   ├── Expertise en AI-Driven Testing
+   └── Devenir Architecte Test Automation
 
-💡 Philosophy:
-   "Quality is not an accident; it's the result of intelligent effort"
+💡 Philosophie:
+   "La qualité n'est pas un accident; c'est le résultat d'un effort intelligent"
 ```
 
 </details>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🏆 Certifications Professionnelles
+
+<div align="center">
+
+| 🎓 Certification | 📋 Description | ✅ Status |
+|:----------------|:---------------|:----------|
+| **Agile Scrum PSM** | Professional Scrum Master | ✅ Certifié |
+| **PSPO** | Professional Scrum Product Owner | ✅ Certifié |
+| **JIRA** | JIRA Administration & Workflow | ✅ Certifié |
+| **ISTQB A4Q** | ISTQB Foundation Level | ✅ Certifié |
+| **SELENIUM** | Selenium Test Automation | ✅ Certifié |
+| **Test Manuel** | Manual Testing Certification | ✅ Certifié |
+| **Administration JIRA** | Advanced JIRA Administration | ✅ Certifié |
+| **Test Automatique** | Automated Testing Practices | ✅ Certifié |
+
+<p><em>✨ 9 Certifications Agréées par l'État ✨</em></p>
+
+</div>
+
+---
+
+## 🛠️ Stack Technique & Outils
 
 ### 🧪 Testing & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
   <img src="https://img.shields.io/badge/TestNG-FF8C00?style=for-the-badge" alt="TestNG"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter"/>
+  <img src="https://img.shields.io/badge/TestQuality-2B7CFF?style=for-the-badge" alt="TestQuality"/>
+  <img src="https://img.shields.io/badge/Gherkin-00A818?style=for-the-badge" alt="Gherkin"/>
 </p>
 
-### 💻 Programming Languages
+### 💻 Langages de Programmation
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
@@ -89,25 +138,119 @@ daily_routine:
 <p align="left">
   <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-### 🔧 Tools & Platforms
+### 📊 Gestion de Projet & Reporting
 <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/MantisBT-215732?style=for-the-badge" alt="Mantis"/>
-  <img src="https://img.shields.io/badge/TestQuality-2B7CFF?style=for-the-badge" alt="TestQuality"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/TestLink-4B9FD5?style=for-the-badge" alt="TestLink"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/ExtentReports-FF6C37?style=for-the-badge" alt="ExtentReports"/>
+  <img src="https://img.shields.io/badge/Allure-FF6C37?style=for-the-badge" alt="Allure"/>
 </p>
+
+### 🔧 IDE & Environnements
+<p align="left">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+### 🗄️ Bases de Données
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+---
+
+## 💼 Compétences Professionnelles
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Méthodologie Agile & Scrum
+- ✅ Maîtrise de la méthode AGIL SCRUM
+- ✅ Gestion de Projet avec JIRA
+- ✅ Création de workflows (Bug, Story, Tâche, Epic)
+- ✅ Gestion Backlog de projet & sprint
+- ✅ Collaboration avec PO & Scrum Master
+
+### 🔍 Analyse & Spécifications
+- ✅ Analyse des spécifications clients
+- ✅ Rédaction cahier des charges
+- ✅ Analyse et rédaction user stories
+- ✅ Définition périmètre des tests
+- ✅ Préparation jeux de données
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Tests & Validation
+- ✅ Exécution cas de test & rapports bugs
+- ✅ Tests bout en bout (E2E)
+- ✅ Tests de non régression (TNR)
+- ✅ Tests de confirmation
+- ✅ Smock Test
+
+### 🤖 Automatisation
+- ✅ Maîtrise expérience UX/IHM
+- ✅ Conception cas de test via cahier des charges
+- ✅ Automatisation tests via Selenium
+- ✅ BDD avec Cucumber
+- ✅ Pattern POM (Page Object Model)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Reporting & Documentation
+- ✅ Rédaction rapports de test
+- ✅ Rapports des bugs
+- ✅ Génération rapports automatiques (BDD)
+- ✅ Suivi et validation bugs
+- ✅ Déclaration bugs avec criticité
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Soft Skills
+- ✅ Capacité d'analyse quantitative & qualitative
+- ✅ Gestion des conflits
+- ✅ Capacité d'écoute et communication
+- ✅ Capacité d'anticipation
+- ✅ Respect des délais et coûts
+- ✅ Gestion planning, budget, reporting
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akremhammami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akremhammami&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+  
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akremhammami&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
 
 ---
 
@@ -141,7 +284,34 @@ daily_routine:
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Formation
+
+<div align="center">
+
+| 🎯 Formation | 🏢 Institution | 📅 Période |
+|:------------|:--------------|:-----------|
+| **Testeur Logiciel QA** | Proservices Training Company<br/>Ariana Governorate, Tunisia | Fév 2022 - Août 2022 |
+| **Gestion de la Maintenance Industrielle** | CSFT Centre de Formation Sectoriel<br/>Cité Khadra, Tunis, TU | Avril 2015 - Oct 2017 |
+
+</div>
+
+<details>
+<summary>📚 Modules de Formation QA (2022)</summary>
+
+**Formation complète incluant:**
+- ✅ Scrum Master
+- ✅ Product Owner
+- ✅ Administration JIRA
+- ✅ Business Analyst
+- ✅ ISTQB Fondation Level
+- ✅ Testeur manuel
+- ✅ Testeur automatisation Sélénium
+
+</details>
+
+---
+
+## 🚀 Projets en Vedette
 
 <div align="center">
 
@@ -149,30 +319,30 @@ daily_routine:
 <tr>
 <td width="50%">
 
-### 🧪 Selenium-Cucumber Framework
-A robust BDD test automation framework using Selenium WebDriver and Cucumber, featuring Page Object Model design pattern and comprehensive test reporting.
+### 🧪 Framework Selenium-Cucumber-BDD
+Cadre de test automatique robuste utilisant Selenium WebDriver et Cucumber, avec le pattern Page Object Model et reporting complet.
 
-**Tech Stack:** `Java` `Selenium` `Cucumber` `Maven` `TestNG`
+**Stack:** `Java` `Selenium` `Cucumber` `Maven` `JUnit`
 
-**Highlights:**
+**Points Forts:**
 - ✅ Page Object Model (POM)
 - ✅ Data-Driven Testing (DDT)
 - ✅ Behavior-Driven Development (BDD)
-- ✅ CI/CD Integration
+- ✅ Intégration CI/CD
 
 </td>
 <td width="50%">
 
-### 🔄 CI/CD Pipeline with Jenkins
-Complete automation pipeline integrating Docker, Jenkins, and automated testing with comprehensive reporting using Allure.
+### 🔄 Pipeline CI/CD avec Jenkins
+Pipeline d'automatisation complète intégrant Jenkins et tests automatisés avec reporting via Allure.
 
-**Tech Stack:** `Jenkins` `Docker` `Allure` `Git`
+**Stack:** `Jenkins` `Allure` `Git` `Maven`
 
-**Highlights:**
-- ✅ Automated Build & Test
-- ✅ Docker Containerization
-- ✅ Allure Test Reports
-- ✅ GitHub Integration
+**Points Forts:**
+- ✅ Build & Test Automatisés
+- ✅ Rapports de Test Allure
+- ✅ Intégration GitHub
+- ✅ Exécution planifiée
 
 </td>
 </tr>
@@ -182,47 +352,60 @@ Complete automation pipeline integrating Docker, Jenkins, and automated testing 
 
 ---
 
-## 💼 What I'm Currently Up To
+## 💡 Ce Sur Quoi Je Travaille Actuellement
 
 ```javascript
 const akrem = {
+    currentRole: "Consultant Tests Logiciels @ COMAR & HAYETT",
     currentlyWorkingOn: [
-        "🔨 Building advanced test automation frameworks",
-        "🐳 Containerizing test environments with Docker",
-        "🤖 Exploring AI-driven test generation"
+        "🔨 Tests fonctionnels approfondis des solutions d'identification",
+        "📋 Définition des besoins avec MOA",
+        "🧪 Exécution et suivi des Tests bout en bout (TNR)",
+        "📊 Rédaction de rapports de test détaillés"
     ],
     currentlyLearning: [
-        "📚 Advanced DevOps practices",
-        "🎯 Performance testing with K6",
-        "🧠 Machine Learning for QA"
+        "📚 Pratiques DevOps avancées",
+        "🎯 Tests de performance",
+        "🧠 AI-Driven Testing",
+        "🐳 Containerisation avec Docker"
     ],
     askMeAbout: [
-        "Test Automation", "Selenium", "Cucumber", 
-        "Java", "CI/CD", "Jenkins", "Docker",
-        "API Testing", "Quality Assurance"
+        "Test Automation", "Selenium WebDriver", "Cucumber BDD", 
+        "Java", "JIRA", "Agile/Scrum", "Pattern POM",
+        "API Testing avec Postman", "Quality Assurance"
     ],
-    funFact: "I debug in my sleep! 💤🐛"
+    tools: {
+        testManagement: ["JIRA", "TestQuality", "Mantis", "TestLink"],
+        automation: ["Selenium", "Cucumber", "JUnit", "TestNG"],
+        reporting: ["ExtentReport", "Allure", "Cucumber Report"],
+        cicd: ["Jenkins", "Maven", "Git", "GitHub Actions"],
+        languages: ["Java", "JavaScript", "SQL"]
+    },
+    funFact: "Je débugge même en dormant! 💤🐛"
 };
 ```
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connectons-nous!
 
 <div align="center">
 
-**"Code never lies, comments sometimes do. Tests? They tell the truth."**
+**"Le code ne ment jamais, les commentaires parfois. Les tests? Ils disent la vérité."**
 
 <p>
   <a href="https://www.linkedin.com/in/akrem-hammami-/">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connectons_sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hammami-akrem@outlook.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Envoyez_moi_un_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+21655093323">
+    <img src="https://img.shields.io/badge/Appelez_moi-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </p>
 
-### ⭐ Fun Quote Generator
+### 💬 Citation Inspirante
 
 <div align="center">
 
@@ -230,10 +413,12 @@ const akrem = {
 
 </div>
 
+### 📍 Basé à Ariana, Tunis, Tunisia 🇹🇳
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-**Thanks for visiting! Happy Testing! 🧪✨**
+**Merci de votre visite! Happy Testing! 🧪✨**
 
 </div>
