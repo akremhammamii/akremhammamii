@@ -21,8 +21,6 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akrem-hammami-/)
-[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)]()
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 
 ---
 
@@ -60,9 +58,9 @@
 
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=akremhammamii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=akremhammami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akremhammamii&layout=compact&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akremhammami&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -72,7 +70,7 @@
 
 <div align="center">
   
-![snake gif](https://github.com/akremhammamii/akremhammamii/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/akremhammami/akremhammami/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
