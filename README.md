@@ -58,9 +58,9 @@
 
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=akremhammami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akremhammami&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akremhammami&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akremhammami&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
