@@ -54,19 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akremhammami&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akremhammami&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## 🐍 Snake Animation (Followers & Activity)
+## 🐍 Contribution Activity
 
 <div align="center">
   
