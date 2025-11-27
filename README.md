@@ -2,7 +2,7 @@
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akrem%20HAMMAMI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Consultant+QA+%7C+Test+Automation+Specialist;Expert+en+Validation+%26+Automatisation;3%2B+Ann%C3%A9es+d'Exp%C3%A9rience+en+Assurance+Qualit%C3%A9;Certifi%C3%A9+ISTQB+%7C+Scrum+Master+%7C+PSPO" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Consultant+QA+%7C+Test+Automation+Specialist;Expert+en+Validation+%26+Automatisation;3%2B+Ann%C3%A9es+d'Exp%C3%A9rience+en+Assurance+Qualit%C3%A9;Certifi%C3%A9+ISTQB+%7C+Scrum+Master+%7C+PSPO" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akrem-hammami-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
