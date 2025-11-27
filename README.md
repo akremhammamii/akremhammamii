@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/akrem-hammami-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:hammami-akrem@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="tel:+21655093323"><img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=akremhammamii&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=akremhammamii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 </div>
