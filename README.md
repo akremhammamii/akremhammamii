@@ -9,7 +9,7 @@
   <a href="mailto:hammami-akrem@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="tel:+21655093323"><img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <img src="https://img.shields.io/github/followers/akremhammamii?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
-  <img src="https://komarev.com/ghpvc/?username=akremhammamii&style=for-the-badge&color=0e75b6" alt="" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakremhammamii&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
