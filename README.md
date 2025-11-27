@@ -240,8 +240,7 @@ certifications: 9 Certifications Professionnelles Agréées par l'État
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akremhammamii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=akremhammamii&theme=tokyonight&hide_border=true" />
+<img width="80%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akremhammamii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 </div>
 
