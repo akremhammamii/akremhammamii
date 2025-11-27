@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/akrem-hammami-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:hammami-akrem@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="tel:+21655093323"><img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=akremhammami&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=akremhammamii&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
@@ -241,14 +241,14 @@ certifications: 9 Certifications Professionnelles Agréées par l'État
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akremhammami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akremhammami&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akremhammamii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akremhammamii&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
   
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akremhammami&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akremhammamii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -258,7 +258,7 @@ certifications: 9 Certifications Professionnelles Agréées par l'État
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=akremhammami&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akremhammamii&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -278,7 +278,7 @@ certifications: 9 Certifications Professionnelles Agréées par l'État
 
 <div align="center">
   
-[![Akrem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akremhammami&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akrem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akremhammamii&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
