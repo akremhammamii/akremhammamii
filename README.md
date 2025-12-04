@@ -117,6 +117,7 @@ certifications: 9 Certifications Professionnelles Agréées par l'État
 
 ### 🧪 Testing & Automation
 <p align="left">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
@@ -129,6 +130,7 @@ certifications: 9 Certifications Professionnelles Agréées par l'État
 ### 💻 Langages de Programmation
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
@@ -202,8 +204,10 @@ certifications: 9 Certifications Professionnelles Agréées par l'État
 - ✅ Maîtrise expérience UX/IHM
 - ✅ Conception cas de test via cahier des charges
 - ✅ Automatisation tests via Selenium
+- ✅ Automatisation tests via Cypress
 - ✅ BDD avec Cucumber
 - ✅ Pattern POM (Page Object Model)
+- ✅ TypeScript pour tests E2E
 
 </td>
 </tr>
@@ -344,6 +348,36 @@ Pipeline d'automatisation complète intégrant Jenkins et tests automatisés ave
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🛒 Framework Cypress-TypeScript-BDD
+Framework d'automatisation E2E moderne pour DemoWebShop utilisant Cypress avec TypeScript et Cucumber BDD.
+
+**Stack:** `Cypress` `TypeScript` `Cucumber` `Node.js`
+
+**Points Forts:**
+- ✅ Tests E2E avec Cypress
+- ✅ TypeScript pour typage statique
+- ✅ Cucumber BDD (Gherkin)
+- ✅ Allure Reports
+- ✅ GitHub Actions CI/CD
+
+</td>
+<td width="50%">
+
+### 🔧 Compétences Cypress
+Maîtrise complète du framework Cypress pour l'automatisation des tests modernes.
+
+**Fonctionnalités:**
+- ✅ cy.intercept() pour Mock API
+- ✅ Cross-browser Testing
+- ✅ Retry intelligent (anti-flaky)
+- ✅ Screenshots & Vidéos
+- ✅ Custom Commands
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -374,10 +408,10 @@ const akrem = {
     ],
     tools: {
         testManagement: ["JIRA", "TestQuality", "Mantis", "TestLink"],
-        automation: ["Selenium", "Cucumber", "JUnit", "TestNG"],
+        automation: ["Cypress", "Selenium", "Cucumber", "JUnit", "TestNG"],
         reporting: ["ExtentReport", "Allure", "Cucumber Report"],
         cicd: ["Jenkins", "Maven", "Git", "GitHub Actions"],
-        languages: ["Java", "JavaScript", "SQL"]
+        languages: ["Java", "TypeScript", "JavaScript", "SQL"]
     },
     funFact: "Je débugge même en dormant! 💤🐛"
 };
